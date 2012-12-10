@@ -1,0 +1,34 @@
+c:\users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+c:\users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+c:\users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.Registrations.resources
+c:\users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.Properties.Resources.resources
+c:\users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.exe
+c:\users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.pdb
+c:\users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.NewStudentData.resources
+C:\Users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\nuwan\documents\visual studio 2010\Projects\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.StudentDetails.resources
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.exe
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.pdb
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.NewStudentData.resources
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.Registrations.resources
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.Properties.Resources.resources
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.StudentDetails.resources
+C:\Users\NIPUNA MALIGA\Desktop\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.csproj.GenerateResource.Cache
+D:\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+D:\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.exe
+D:\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.pdb
+D:\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+D:\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+D:\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
+D:\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.NewStudentData.resources
+D:\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.Registrations.resources
+D:\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.Properties.Resources.resources
+D:\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.StudentDetails.resources
+D:\StudentRegistration\StudentRegistration\obj\x86\Debug\StudentRegistration.csproj.GenerateResource.Cache
